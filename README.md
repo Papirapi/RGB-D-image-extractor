@@ -1,3 +1,6 @@
+# PS: I just copied the code from : http://stereo.jpn.org/jpn/stphmkr/google/colabe.html project so I can clone it on Colab
+# All credit goes to the owner of this project mentionned in the previous link
+
 # Mannequin Challenge Code and Trained Models
 
 This repository contains inference code for models trained on the Mannequin
